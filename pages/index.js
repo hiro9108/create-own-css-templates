@@ -6,7 +6,8 @@ export default function Home() {
       <Head>
         <title>Self Intro</title>
       </Head>
-      <h1>main</h1>
+      <input className="text-form" type="text" placeholder="text" />
+
       {/* <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
